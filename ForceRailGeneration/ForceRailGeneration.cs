@@ -2,7 +2,6 @@
 // ============================================================================
 // Author: TrooperManiac aka EmberDev
 // Version: 1.0.0
-// Description: Configuration notes for Rust procedural generation
 // Note: Ensure 'abovegroundrails' is enabled in world.cfg if present
 // Reference: https://wiki.facepunch.com/rust/procedural_generation_customization
 // ============================================================================
