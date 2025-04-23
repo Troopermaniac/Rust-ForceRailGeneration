@@ -3,7 +3,7 @@ https://wiki.facepunch.com/rust/procedural_generation_customization
 
 PreCompiled ForceRailGeneration installation instructions.
 
-Download the ForceRailGeneration.dll file here~ https://www.dropbox.com/scl/fi/790cfrqudclo1bl1252y4/ForceRailGeneration.dll?rlkey=6hz3u6qglp2s7i0d767ml94it&st=9kn9u8ud&dl=1
+Download the ForceRailGeneration.dll file here~ [DROPBOX DOWNLOAD](https://www.dropbox.com/scl/fi/nqkuni18gv09mp1bmz2c0/ForceRailGeneration.dll?rlkey=ssjisp8w4ejxlf6bgarre1u7u&st=94k1uv0f&dl=1)
 
 Place it into your Rust server's HarmonyMods folder.
 
